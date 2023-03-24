@@ -1,4 +1,4 @@
-# godotenvsafe ![CI](https://github.com/uulwake/godotenvsafe/workflows/CI/badge.svg) [![Go Report Card](https://goreportcard.com/badge/github.com/uulwake/godotenvsafe)](https://goreportcard.com/report/github.com/uulwake/godotenvsafe) [![Go Version](https://img.shields.io/github/go-mod/go-version/uulwake/godotenvsafe)](https://img.shields.io/github/go-mod/go-version/uulwake/godotenvsafe)
+# godotenvsafe ![CI](https://github.com/uulwake/godotenvsafe/workflows/CI/badge.svg) [![Go Report Card](https://goreportcard.com/badge/github.com/uulwake/godotenvsafe)](https://goreportcard.com/report/github.com/uulwake/godotenvsafe) [![Go Version](https://img.shields.io/github/go-mod/go-version/uulwake/godotenvsafe)](https://img.shields.io/github/go-mod/go-version/uulwake/godotenvsafe) [![Go Reference](https://img.shields.io/badge/godoc-reference-blue.svg)](https://pkg.go.dev/github.com/uulwake/godotenvsafe)
 
 
 
