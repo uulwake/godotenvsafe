@@ -1,4 +1,5 @@
-# godotenvsafe ![CI](https://github.com/uulwake/godotenvsafe/workflows/CI/badge.svg) [![Go Report Card](https://goreportcard.com/badge/github.com/uulwake/godotenvsafe)](https://goreportcard.com/report/github.com/uulwake/godotenvsafe)
+# godotenvsafe ![CI](https://github.com/uulwake/godotenvsafe/workflows/CI/badge.svg) [![Go Report Card](https://goreportcard.com/badge/github.com/uulwake/godotenvsafe)](https://goreportcard.com/report/github.com/uulwake/godotenvsafe) [![Go Version](https://img.shields.io/github/go-mod/go-version/uulwake/godotenvsafe)](https://img.shields.io/github/go-mod/go-version/uulwake/godotenvsafe)
+
 
 
 A package to help you to check missing environment variable before running your app and getting unnecessary runtime error.
