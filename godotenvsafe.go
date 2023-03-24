@@ -1,3 +1,8 @@
+// This package will prevent you from getting runtime error because missing variable.
+//
+// Readme can be found in Github page at https://github.com/uulwake/godotenvsafe
+//
+// It https://github.com/joho/godotenv under the hood to load your environment variables.
 package godotenvsafe
 
 import (
@@ -43,6 +48,7 @@ func parseEnvTemplate(envStr string) (map[string]string, error) {
 	return envMap, nil
 }
 
+// Load will read your environment file and return an error if you have missing environment variables that you have define in `*.template`
 func Load(filename string) error {
 	err := godotenv.Load(filename)
 	if err != nil {
