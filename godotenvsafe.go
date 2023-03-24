@@ -2,7 +2,7 @@
 //
 // Readme can be found in Github page at https://github.com/uulwake/godotenvsafe
 //
-// It https://github.com/joho/godotenv under the hood to load your environment variables.
+// It uses https://github.com/joho/godotenv under the hood to load your environment variables.
 package godotenvsafe
 
 import (
